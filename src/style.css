@@ -1,0 +1,26 @@
+#table {
+    float:left;
+    width: 46%;
+}
+td {
+    border: 5px solid black;
+    margin: 3%;
+    padding: 1%;
+    width: 1%;
+
+}
+table,h2 {
+    margin: 0 20% 0 20%;
+}
+button {
+    padding: 20px 60px;
+    background-color: bisque;
+    text-align: center;
+    border: none;
+    border-radius: 10px;
+}
+#right_div{
+    float:left;
+    width: 46%;
+    text-align: center;
+}
